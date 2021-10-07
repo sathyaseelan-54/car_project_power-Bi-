@@ -1,6 +1,6 @@
 # Car Rently Power Bi Report
 
-Myproject database records i get the data store csv file formate
+Myproject database records i get the data csv file formate
 
 Project Code link.
 
